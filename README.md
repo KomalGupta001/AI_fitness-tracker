@@ -38,5 +38,6 @@ Deploy to: https://vercel.com
 
 Update production server URL before deployment.
 
+<img width="1920" height="1080" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/516fbff5-623b-44bf-b63e-01daf1cb4a3c" />
 
 
